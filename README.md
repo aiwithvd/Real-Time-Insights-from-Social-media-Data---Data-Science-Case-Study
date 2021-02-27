@@ -16,4 +16,4 @@ This is Real-Time insight from Social Media Data - Simple Data Science Case Stud
 8. Peoples who speaks a 1000 words
 9. Analyzing used languages and various souces used to tweet
 
-Article Link: 
+Medium Article Link: https://medium.com/analytics-vidhya/real-time-insights-from-social-media-data-data-science-case-study-%EF%B8%8F-8235b329d2fc

@@ -1,6 +1,7 @@
 # Real-Time-Insights-from-Social-media-Data---Data-Science-Case-Study
 This is Real-Time insight from Social Media Data - Simple Data Science Case Study
 
+![brain](https://user-images.githubusercontent.com/20366499/109389412-7993ff00-7932-11eb-8396-93cb85d723cf.png)
 
 
 # This Data Science Case Study follow below steps:
